@@ -1,6 +1,7 @@
 [Icon Theme]
 Name=nouveIconGray
 Comment=Icons adapted to the following environments: KDE, GNOME, Xfce4 
+Inherits=nouveIconGray
 DisplayDepth=32
 Example=folder
 
